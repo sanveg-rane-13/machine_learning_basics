@@ -1,4 +1,4 @@
-# machine_learning_basics
+# Machine Learning Basics
 Basic machine learning concepts
 
 * Keras to implement basic Neural Network models - Keras_basics.ipynb
